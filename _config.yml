@@ -5,4 +5,6 @@ docs:
   toc: false
 plugins:
 - jemoji
+site:
+  description: aaaaa
 theme: jekyll-theme-minimal

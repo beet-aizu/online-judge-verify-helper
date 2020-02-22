@@ -38,7 +38,6 @@ layout: default
 
 ### examples
 
-* :heavy_check_mark: <a href="library/examples/circle.awk.html">examples/circle.awk</a>
 * :warning: <a href="library/examples/failed_to_bundle.hpp.html">examples/failed_to_bundle.hpp</a>
 * :heavy_check_mark: <a href="library/examples/macros.hpp.html">examples/macros.hpp</a>
 * :heavy_check_mark: <a href="library/examples/monoids.hpp.html">examples/monoids.hpp</a>
@@ -59,7 +58,6 @@ layout: default
 
 * :heavy_check_mark: <a href="verify/example.test.cpp.html">example.test.cpp</a>
 * :heavy_check_mark: <a href="verify/examples/3872.yukicoder.test.cpp.html">examples/3872.yukicoder.test.cpp</a>
-* :heavy_check_mark: <a href="verify/examples/circle.test.awk.html">examples/circle.test.awk</a>
 * :heavy_check_mark: <a href="verify/examples/csharpscript/helloworld.test.csx.html">examples/csharpscript/helloworld.test.csx</a>
 * :heavy_check_mark: <a href="verify/examples/csharpscript/segment_tree.point_set_range_composite.test.csx.html">examples/csharpscript/segment_tree.point_set_range_composite.test.csx</a>
 * :heavy_check_mark: <a href="verify/examples/csharpscript/segment_tree.range_minimum_query.test.csx.html">examples/csharpscript/segment_tree.range_minimum_query.test.csx</a>
