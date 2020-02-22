@@ -1,3 +1,4 @@
+description: aaaaa
 docs:
   categorize_library: true
   categorize_verify: false
@@ -5,6 +6,4 @@ docs:
   toc: false
 plugins:
 - jemoji
-site:
-  description: aaaaa
 theme: jekyll-theme-minimal
