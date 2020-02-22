@@ -1,4 +1,4 @@
-description: aaaaa
+description: '{{ site.github.project_tagline }}'
 docs:
   categorize_library: true
   categorize_verify: false
